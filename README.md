@@ -25,7 +25,7 @@ Happy Coding! 😊
 
 
 ```javascript
-class OscarVillagran = {
+class OscarVillagran {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["he", "him"],
   code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap],
