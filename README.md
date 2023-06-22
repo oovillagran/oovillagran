@@ -42,7 +42,7 @@ class OscarVillagran {
 
 <div align="center" width="50">
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,webpack,vscode,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,webpack,vscode,git,github,postgresql,ruby,jest)](https://skillicons.dev)
   
 </div>
 
