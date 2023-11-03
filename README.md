@@ -17,21 +17,19 @@
 
 ### More about Me...  
 
-I am a full-stack development student enrolled in Microverse, a remote software development school that provides a project-based learning experience in a collaboration environment.
-
-Currently, I spend my time completely immersed in remote development, building everything from landing pages to web applications using HTML, CSS and, JavaScript, and most importantly, doing pair-programming.
+I am a certified full-stack web developer. Currently, I spend my time completely immersed in remote development, building everything from landing pages to heavy web applications using HTML, CSS, JavaScript, Ruby on Rails, PostgreSQL, TailwindCSS, and most importantly, doing pair-programming.
 
 Happy Coding! 😊
 
 
 ```javascript
 class OscarVillagran {
-  lookingFor: "Front-end developer" || "Full-stack web developer",
-  pronouns: ["he", "him"],
-  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap],
+  lookingFor: "Front-end developer" || "Back-end developer"|| "Full-stack web developer",
+  pronouns: ["he", "him", "his"],
+  code: [JavaScript, React, Redux, Ruby on Rails, PostgreSQL, HTML/CSS, Semantic UI, Bootstrap, TailwindCSS],
   askMeAbout: [Project Management, Mechanical Design, Family, Books],
-  challenge: "At 40 years old I'm starting learning programming and I love it.",
-  funFacts: ['I havea ten-years-old girl and a seven-years-old-boy, love spend time with my family', 
+  challenge: "At 40 years old I'm started learning programming and I love it.",
+  funFacts: ['I have a eleven-years-old girl and a eight-years-old-boy, love spend time with my family', 
   'movies', 'cooking', 'ciclying']
 }
 ```
@@ -42,7 +40,7 @@ class OscarVillagran {
 
 <div align="center" width="50">
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,webpack,vscode,git,github,postgresql,ruby,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,bootstrap,webpack,vscode,git,github,postgresql,ruby,jest)](https://skillicons.dev)
   
 </div>
 
@@ -54,6 +52,14 @@ class OscarVillagran {
 
 [![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=oovillagran&&show_icons=true&theme=outrun)](https://github.com/oovillagran)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oovillagran&theme=outrun)](https://github.com/oovillagran)
+
+</div>
+
+### Profile Visits!
+
+<div align="center" width="50">
+
+![](https://komarev.com/ghpvc/?username=oovillagran&color=blueviolet&style=for-the-badge&base=1000)
 
 </div>
 
